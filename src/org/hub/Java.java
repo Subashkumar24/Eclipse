@@ -13,6 +13,9 @@ public class Java {
 	private void java3() {
 		System.out.println("java 3");
 	}
+	private void java4() {
+		System.out.println("java 4");
+	}
 		
 		
 		
